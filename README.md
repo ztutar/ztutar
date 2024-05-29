@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Zeynep!</h1>
 
-<!--
-**ztutar/ztutar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" width="400" />
+</div>
+<br>
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🎓 **Studying:** I hold a Bachelor's degree in Industrial Engineering and am currently pursuing a Master's degree in Data Science at the University of Padua.
+- 🐱 **Personal:** Proud mom of two cats and an amateur yogi with a little bit of caffeine addiction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Toolkit
+- **Languages:** Python, R
+- **Tools & Technologies:** Jupyter Notebook, VSCode, RStudio
+
+## 📬 Get In Touch
+- Email: zeynep.tutar@yahoo.com
+
