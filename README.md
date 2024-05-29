@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep!</h1>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" width="400" />
+  <img src="ezgif.com-gif-maker.gif" width="400" />
 </div>
 <br>
 
