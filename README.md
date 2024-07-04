@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep!</h1>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=6c09b952fvhzqzla0my8jppq896e62qjjo0rkpt0s3cga8he&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="400" />
+  <img src="https://trailers.getyarn.io/yarn-clip/66c93a76-fab6-4596-ae80-5d4186c89e7f" width="400" />
 </div>
 
 ## 👩‍💻 About Me
